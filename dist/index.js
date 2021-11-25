@@ -14,7 +14,7 @@ function play() {
         alert("lo siento otra vez sera");
     }
     else {
-        alert("Enhorabuena, has ganado");
+        alert("Enhorabuena, has ganado bieeen");
     }
 }
 exports.play = play;
