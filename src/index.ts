@@ -1,5 +1,5 @@
-import { Enigma } from './enigma';
-import { Control } from './control';
+import { Enigma } from '../enigma';
+import { Control } from '../control';
 export function play(){
     let control=new Control();
     alert("bienvenido al juego del ahorcado");
